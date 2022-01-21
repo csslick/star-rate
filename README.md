@@ -2,6 +2,8 @@
 - star rate plug-in, 2022-01-21 v0.1, by CSSLICK
 - 별점 기능
 
+![image](https://user-images.githubusercontent.com/24298382/150494344-09283fb6-2e14-43bc-a565-b960a52b7940.png)
+
 # How to Use(사용방법)
 
 ## Usable attribute value
