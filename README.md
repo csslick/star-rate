@@ -7,7 +7,7 @@
 # How to Use(사용방법)
 
 ## Usable attribute value
-1. data-value: star value(0 ~ 100_
+1. data-value: star value(0 ~ 100)
 2. data-size: star size
 
 ## code
