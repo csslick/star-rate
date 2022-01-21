@@ -1,6 +1,5 @@
 # star-rate
-- star rate plug-in
-- 2022-01-21 v0.1, CSSLICK
+- star rate plug-in, 2022-01-21 v0.1, by CSSLICK
 - 별점 기능
 
 # How to Use(사용방법)
