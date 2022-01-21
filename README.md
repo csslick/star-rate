@@ -22,7 +22,7 @@
 <body>
 
   <div class="star-rate-wapper">
-	  <span class="star-rate" data-value="0" data-size="16"></span>
+    <span class="star-rate" data-value="0" data-size="16"></span>
     <span class="star-rate" data-value="25" data-size="16"></span>
     <span class="star-rate" data-value="50" data-size="16"></span>
     <span class="star-rate" data-value="75" data-size="16"></span>
